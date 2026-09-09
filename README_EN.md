@@ -9,7 +9,6 @@ A lightweight bulk SMS application for the Android platform.
 ![](https://img.shields.io/github/license/yztz/MsgGo)
 ![](https://img.shields.io/github/downloads/yztz/MsgGo/total?color=green)
 
-[中文](./README.md) | [English](./README_EN.md)
 
 > [!IMPORTANT]
 > The bulk messaging functionality provided by this software is implemented based on the mobile device's native system SMS interface.
